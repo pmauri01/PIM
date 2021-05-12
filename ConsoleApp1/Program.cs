@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             //change in GitHub
             //code to call feature 1
+            //code to call feature 2
         }
     }
 }
