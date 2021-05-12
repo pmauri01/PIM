@@ -4,9 +4,9 @@ public class Class1
 {
 	public Class1()
 	{
-		int test;
+		string test;
 
-		int getTest()
+		string getTest()
         {
 			return test;
 
