@@ -4,11 +4,11 @@ public class Class1
 {
 	public Class1()
 	{
-		int test;
+		DateTime test;
 
-		int getTest()
+		int NewName()
         {
-			return test;
+			DateTime test;
 
         }
 	}
