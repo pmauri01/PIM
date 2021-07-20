@@ -9,6 +9,7 @@ public class Class1
 		int getTest()
         {
 			DateTime test;
+			//coment addead
 
         }
 	}
